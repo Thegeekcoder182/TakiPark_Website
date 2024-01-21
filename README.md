@@ -1,6 +1,6 @@
 # Taxi Booking Website
 
-Welcome to our Taxi Booking website! This platform allows users to easily book taxis online, explore our services, and get information about our company.
+Welcome to our Taxi Booking website! This platform allows users to easily book taxis online, explore our services, and get information about our company
 
 ## Table of Contents
 
